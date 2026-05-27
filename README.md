@@ -147,7 +147,4 @@ System składa się z 26 encji i wykorzystuje różne typy danych (np. tekst, li
 * **Fizyczny Egzemplarz a Lokalizacja:** Zakładamy, że każdy namacalny, fizyczny egzemplarz książki z naklejonym kodem kreskowym znajduje się w jednym, ściśle określonym miejscu (np. "Czytelnia Czasopism, piętro 2"). Dzięki temu student w katalogu od razu widzi, gdzie musi się udać.
 * **Fizyczny Egzemplarz a Reguły Wypożyczeń:** Zakładamy, że zasady wypożyczeń (np. na miesiąc, na 3 dni, albo tylko do czytania na miejscu) nie są przypisane do ogólnego tytułu książki, lecz do konkretnego fizycznego egzemplarza. Dzięki temu biblioteka może z 10 posiadanych podręczników udostępnić 8 do wypożyczenia do domu, a 2 zachować w dostępie swobodnym.[^1]
 
-> [!NOTE]
-> W Bibliotece UG studenci i wykładowcy mają ten sam limit wypożyczeń, ale jeżeli w pewnym momencie to się zmieni, to dzięki utworzeniu osobnej encji Typ_Uzytkownika (lub słownika reguł), taka aktualizacja nie wymagałaby modyfikacji tysięcy rekordów.
-
 [^1]: W Bibliotece UG studenci i wykładowcy mają ten sam limit wypożyczeń, ale jeżeli w pewnym momencie to się zmieni, to dzięki utworzeniu osobnej encji Typ_Uzytkownika, taka aktualizacja nie wymagałaby aktualizacji tysięcy rekordów.
