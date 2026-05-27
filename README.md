@@ -59,7 +59,7 @@ The system consists of **26 entities** handling various data types (text, numeri
 
 ## 3. Entity Relationship Diagram (ERD)
 
-![Database Schema Diagram](images/erd_diagram.png)
+![Database Schema Diagram](images/erd-diagram.png)
 
 ---
 
