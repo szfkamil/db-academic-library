@@ -58,7 +58,6 @@ The system consists of **26 entities** handling various data types (text, numeri
 26. **Rola_Tworcy:** Roles definition (author, editor, illustrator).
 
 ## 3. Entity Relationship Diagram (ERD)
-*(Place your ERD diagram image here in the future)*
 
 ![Database Schema Diagram](images/erd_diagram.png)
 
